@@ -15,14 +15,11 @@ body {
   
 a {
     display: inline-block;
-    padding: 5px 15px;
-    background-color: #f03c02;
+
     color: #fff;
     font-size: 18px;
-    border: none;
-    border-radius: 10px;
     text-transform: uppercase;
-    letter-spacing: 2px;
+    letter-spacing: 1px;
     cursor: pointer;
     transition: all 0.2s ease-in-out;
 }
